@@ -1,62 +1,107 @@
-# Solutions Engineer – M365 Power Platform Developer
+# Solutions Engineer - M365 Power Platform Developer
 
-**Company:** Sound Transit
-**Location:** Seattle, WA 98104, USA
-**Job Category:** Information Technology
-**Requisition Number:** SOLUT003290
-**Posted:** November 6, 2025
-**Employment Type:** Full-Time
-
----
-
-## 💰 Compensation & Benefits
-
-* **Salary Range:** $78,000 – $155,000 (midpoint: $108,000)
-  *New hires typically start between minimum and midpoint; higher offers may be considered based on experience, internal equity, and market.*
-
-### Benefits Highlights
-
-* **Health Benefits:** Two medical plan options, dental, and vision coverage at no cost for employees; coverage includes dependents and domestic partners.
-* **Disability & Life Insurance:** Long-term disability and life insurance included.
-* **Employee Assistance Program (EAP)**
-* **Retirement Plans:**
-
-  * 401(a): 10% employee contribution with 12% employer match.
-  * 457(b): Employee-only contributions up to IRS maximum.
-* **Paid Time Off:**
-
-  * 25 days annually, increasing at 4, 8, and 12 years of service.
-  * 12 paid holidays + up to 2 floating holidays + up to 2 volunteer days per year.
-* **Parental Leave:** 12 weeks paid leave for new parents.
-* **Pet Insurance**
-* **ORCA Card:** Free for all full-time employees.
-* **Tuition Reimbursement:** Up to $5,000 annually for approved programs.
-* **Inclusive Reproductive Health Support**
-* **Work-Life Balance & Professional Development Opportunities**
+**Job Category:** Information Technology  
+**Requisition Number:** SOLUT003290  
+**Posted:** November 6, 2025  
+**Employment Type:** Full-Time  
+**Location:** Seattle, WA 98104, USA  
+**Salary Range:** $78k - $155k (Midpoint $108k)  
 
 ---
 
-## 🎯 General Purpose
-
-The **Solutions Engineer** designs, develops, tests, and implements technical solutions using existing and emerging technologies—primarily Microsoft/Office 365 applications such as **Power Apps, Power Automate, Power BI, Teams, and SharePoint Online**.
-
-This is a **hands-on technical role** collaborating with end users and cross-functional teams to align IT services with business needs.
+## Benefits
+- **Health Benefits:** Two medical plan options, dental and vision coverage at no cost for employee; comprehensive coverage for dependents.  
+- **Long-Term Disability & Life Insurance**  
+- **Employee Assistance Program**  
+- **Retirement Plans:**  
+  - 401a – 10% employee contribution with 12% match  
+  - 457b – up to IRS maximum (employee only contribution)  
+- **Paid Time Off:** 25 days annually; increases at 4, 8, 12 years; 12 paid holidays; up to 2 floating holidays; up to 2 volunteer days/year  
+- **Parental Leave:** 12 weeks for new parents  
+- **Pet Insurance**  
+- **ORCA Card:** Provided at no cost  
+- **Tuition Reimbursement:** Up to $5,000 annually  
+- **Inclusive Reproductive Health Support Services**  
+- **Compensation Practices:** Competitive salaries based on market rates and internal equity  
 
 ---
 
-## ⚙️ Essential Functions
+## General Purpose
+The Solutions Engineer determines requirements, designs, develops, tests, and implements technical solutions, focusing on Microsoft/Office 365 platform applications such as Power Apps, Power Automate, Power BI, Teams, SharePoint Online, and other productivity, collaboration, and document management tools.  
+This hands-on role collaborates with end users and cross-departmental IT/business teams to build and implement new systems that solve business problems.
 
-* Implement and configure Office 365 platform solutions based on business requirements.
-* Develop workflow and process automation solutions using Power Platform tools.
-* Integrate Office 365 with other systems using APIs and other technologies.
-* Collaborate with users and IT teams to define requirements and advise on solutions.
-* Coordinate with vendors to ensure optimal configurations and best practices.
-* Translate business objectives into functional solutions using Agile or Waterfall.
-* Document requirements, solution diagrams, flowcharts, and test plans.
-* Estimate and document work effort and timelines.
-* Design, test, debug, and implement solutions.
-* Communicate effectively with technical and non-technical audiences.
-* Troubleshoot and resolve system issues; manage accounts and permissions.
-* Participate in after-hours maintenance for updates and patches.
-* Support implemented solutions and ensure compliance with ITIL and security standards.
-* Promote Sound Transit’s **core values** and **diversity, equity, and incl
+---
+
+## Essential Functions
+- Implement and configure functional Office 365 solutions based on business objectives.  
+- Develop workflow and process automation solutions on Office 365 Platform Services.  
+- Integrate Office 365 with other systems using various technologies.  
+- Collaborate on projects to identify and develop functional/process requirements.  
+- Coordinate with software vendors for optimal platform configuration.  
+- Translate business objectives into functional solutions using Agile/Waterfall methodologies.  
+- Prepare and document requirements, solution diagrams, flowcharts, layouts, and test plans.  
+- Analyze, define, estimate, and document work Level of Effort.  
+- Design, develop, test, debug, and implement technical solutions.  
+- Communicate effectively to both technical and non-technical audiences.  
+- Provide support of implemented solutions, account management, and troubleshooting.  
+- Participate in preventative maintenance and after-hours updates as needed.  
+- Drive problem investigations and resolution.  
+- Champion Sound Transit’s core values and contribute to a culture of diversity, equity, and inclusion.  
+- Follow safety rules, regulations, and procedures.  
+- Integrate sustainability into everyday business practices.  
+- Perform other duties as assigned.  
+
+---
+
+## Minimum Qualifications
+
+**Education & Experience:**  
+- Bachelor’s Degree in Computer Science, IT, Business Management/Administration, or related field.  
+- 4 years of IT experience with hands-on Microsoft Power Platform development, architecture, and administration, or equivalent combination of education and experience.  
+
+**Preferred Licenses/Certifications:**  
+- Microsoft 365 Certified: Fundamentals  
+- Power Platform App Maker Associate  
+- Power Platform Developer Associate  
+- Power Platform Solution Architect Expert  
+- Power BI Data Analyst Associate  
+- ITIL v3 or v4 Certification  
+
+---
+
+## Required Knowledge & Skills
+- Office 365 Power Apps and Power Automate configuration and development  
+- Office 365 Power Platform administration, architecture, operational support  
+- Power BI report/dashboard development  
+- Agile/Scrum practices  
+- JavaScript, HTML, CSS  
+- Active Directory administration  
+- Office 365 PowerShell scripting  
+- Broad knowledge of content & collaboration technologies (Exchange, Teams, SharePoint, OneDrive)  
+- Systems integrations (Web services, APIs, SOAP, Add-ins)  
+- Business process design and system integration  
+- Information Security & Compliance  
+- ITIL and Change Management principles  
+- UI/UX principles  
+- SQL and database management  
+- Business Intelligence and data management best practices  
+- Strong communication and teamwork skills  
+
+**Preferred Knowledge & Skills:**  
+- Third-party tools for eSignature, workflows, forms (Adobe, QuickBase, AgilePoint)  
+- ServiceNow for incident, request, and change management  
+- SQL authoring and data modeling  
+
+---
+
+## Physical Demands / Work Environment
+- Standard office environment  
+- Work may include detailed design work and user interface updates  
+- 24-hour on-call program for critical incidents  
+- Agency provides safety training and equipment as required  
+
+---
+
+## Equal Opportunity Employer
+Sound Transit is an equal employment opportunity employer. No person is unlawfully excluded based on race, color, religion, national origin, sex (including gender identity, sexual orientation, pregnancy), age, genetic information, disability, veteran status, or other protected class.  
+All applicants are notified of their rights under federal employment laws.
